@@ -14,12 +14,14 @@ function getOSName() {
 }
 
 function getScreenResolution() {
-    return `${window.screen.width}x${window.screen.height}`;
+    //return `${window.screen.width}x${window.screen.height}`;
+    return "hui";
 }
 
 async function getBatteryPercentage() {
-    const battery = await navigator.getBattery();
-    return Math.floor(battery.level * 100);
+    // const battery = await navigator.getBattery();
+    // return Math.floor(battery.level * 100);
+    return "hui";
 }
 
 function getBrowserInfo() {
